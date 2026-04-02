@@ -1,4 +1,4 @@
-# Zorvyn Finance API
+# Finance API
 
 Backend for a finance dashboard: users and roles, financial records (CRUD + filters), dashboard analytics, and JWT-based role access control. Built with **Node.js**, **TypeScript**, **Fastify**, **Prisma**, and **SQLite**.
 
